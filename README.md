@@ -38,7 +38,3 @@ This project was developed for the Aktifbank Case Study using Microsoft Excel.
 - Dashboard.pdf
 
 ---
-
-## Author
-
-Hatice Gül Uzun
